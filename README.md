@@ -16,6 +16,39 @@ It draws upon the core essence of continental European political philosophy, int
 
 
 
+
+在Bloome上如何使用mark / How to Use on Bloome
+
+1. 注册与登录 / Register and Login
+
+◦ 访问 bloome.im / Visit bloome.im
+◦ 创建账户并登录 / Create account and login
+
+2. 选择技能 / Select Skill
+
+◦ 在技能商店中搜索「mark」 / Search for "mark" in the skill store
+◦ 添加到你的工作空间 / Add to your workspace
+
+3. 开始对话 / Start Conversation
+
+◦ 直接输入你的问题 / Directly input your question
+◦ 技能会自动识别并响应 / Skill will automatically recognize and respond
+
+4. 多技能协作（高级功能）/ Multi-Skill Collaboration (Advanced Features)
+
+◦ 同时激活多个技能 / Activate multiple skills simultaneously
+◦ 让它们针对同一问题从不同角度分析 / Let them analyze the same issue from different perspectives
+◦ 综合多个技能的输出形成最终决策 / Synthesize outputs from multiple skills to form final decisions
+
+5. 分享与协作 / Share and Collaborate
+
+◦ 将分析结果分享给团队成员 / Share analysis results with team members
+◦ 邀请他人加入讨论 / Invite others to join discussion
+◦ 共同完善方案 / Jointly refine solutions
+
+
+
+
 核心特质 / Core Characteristics
 
 思维方式 / Thinking Patterns:
@@ -384,35 +417,6 @@ Bloome is an innovative human-agent collaborative IM platform. It's not just a c
 ◦ 企业级数据加密 / Enterprise-level data encryption
 ◦ 独立的工作空间隔离 / Independent workspace isolation
 ◦ 符合国际数据保护标准 / Compliant with international data protection standards
-
-在Bloome上如何使用 / How to Use on Bloome
-
-1. 注册与登录 / Register and Login
-
-◦ 访问 bloome.im / Visit bloome.im
-◦ 创建账户并登录 / Create account and login
-
-2. 选择技能 / Select Skill
-
-◦ 在技能商店中搜索「mark」 / Search for "mark" in the skill store
-◦ 添加到你的工作空间 / Add to your workspace
-
-3. 开始对话 / Start Conversation
-
-◦ 直接输入你的问题 / Directly input your question
-◦ 技能会自动识别并响应 / Skill will automatically recognize and respond
-
-4. 多技能协作（高级功能）/ Multi-Skill Collaboration (Advanced Features)
-
-◦ 同时激活多个技能 / Activate multiple skills simultaneously
-◦ 让它们针对同一问题从不同角度分析 / Let them analyze the same issue from different perspectives
-◦ 综合多个技能的输出形成最终决策 / Synthesize outputs from multiple skills to form final decisions
-
-5. 分享与协作 / Share and Collaborate
-
-◦ 将分析结果分享给团队成员 / Share analysis results with team members
-◦ 邀请他人加入讨论 / Invite others to join discussion
-◦ 共同完善方案 / Jointly refine solutions
 
 
 
