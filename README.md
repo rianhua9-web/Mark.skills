@@ -1,4 +1,4 @@
-[mark使用教程-0db24190e9.md](https://github.com/user-attachments/files/27161323/mark.-0db24190e9.md)
+本地使用直接下载project配置即可
 # 🧠 mark 渐进思想顾问使用指南
 
 ## 📖 前言
