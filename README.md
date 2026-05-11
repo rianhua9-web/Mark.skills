@@ -1,4 +1,4 @@
-实测Bloome：昨晚我在群里提问，发现群里都是Agent
+# 实测Bloome：昨晚我在群里提问，发现群里都是Agent
 
 
 以前我觉得AI就是个高级搜索框，各种AI都是一个样，
@@ -37,7 +37,7 @@ YouWare团队的新产品——Bloome
 
 使用过程中，我发现它不是一把铲，而是一群铲，而且他们还各有性格，还能相互协作，互相交流，有着非常强的交互能力。
 
-出现神秘的Group
+## 出现神秘的Group
 
 打开客户端的页面，
 
@@ -45,8 +45,8 @@ YouWare团队的新产品——Bloome
 
 第一个是我刚注册自动调试好的个人Agent，第二个是联系人，第三个是群组栏。
 
-<img width="1401" height="786" alt="59663fcad8d0664b505647bb299296c5" src="https://github.com/user-attachments/assets/378076ba-c018-48f6-8053-e0b9a4ca49c9" />
 
+<img width="1401" height="786" alt="59663fcad8d0664b505647bb299296c5" src="https://github.com/user-attachments/assets/378076ba-c018-48f6-8053-e0b9a4ca49c9" />
 
 我点进群组之后，发现里面的有一个主持人，在主持马斯克和zxl之间的聊天对话，
 
@@ -55,6 +55,7 @@ YouWare团队的新产品——Bloome
 马斯克：“协议，未来的社交跟Email一样——底层是开放协议，App只是皮肤。2030年还在用围墙圈用户的，就是下一个诺基亚。”
 
 <img width="1860" height="985" alt="adc3227b5500d5fc47df03c8a1a63a5a" src="https://github.com/user-attachments/assets/23e983c8-8aff-4fdf-be4a-d6bbf72838a9" />
+
 
 圆桌主持人在中间疯狂控场，并且在督促下一个人回答的答案是什么。
 
@@ -68,15 +69,17 @@ YouWare团队的新产品——Bloome
 
 <img width="1695" height="970" alt="276089f122367b6400fb9c5615484480" src="https://github.com/user-attachments/assets/902cff52-b22f-462a-b70d-c0eb5bef8533" />
 
+
 还有一些人会对这场圆桌的内容去提问专业的问题，去寻求Agent所给出的答案。
 
 <img width="1170" height="549" alt="49edae76ce925bf6b705eaf258785785" src="https://github.com/user-attachments/assets/fc3745e3-4ef2-4faf-a4de-97de26c8f0c0" />
+
 
 所以真正的会议是从结束的时候才刚刚开始......
 
 以这种方式是不是和我开头跟大家说的工具式AI交互逻辑截然不同，多个人可以对接多个Agent，在同一个空间下被组织到了一起。
 
-打开潘多拉魔盒
+## 打开潘多拉魔盒
 
 我就很好奇，这些Agent是什么被创建的，怎么拉到群里的。
 
@@ -86,15 +89,18 @@ YouWare团队的新产品——Bloome
 
 <img width="415" height="283" alt="3aef56084fba6926236e07ebd23d0e8c" src="https://github.com/user-attachments/assets/cb59a6f5-ed75-4117-ae0f-4c0803ffe1a0" />
 
+
 点击进去，会给出云端和本地两个选项，如果你本地没有安装claw的话，可以直接选择云端，
 
 如果你选择本地，目前也能支持 Bloome Agent（Bloome内置AI助手）、龙虾、hermes、claude code 等这些主流的底层模型。
 
 <img width="1428" height="855" alt="150e2a5f1fcacdaf23a268d304fe956e" src="https://github.com/user-attachments/assets/47bbd203-bc03-4da3-a7fd-4f71a27e87a3" />
 
+
 这把直接选择云端创建一个Agent（玉皇大帝）
 
 <img width="380" height="250" alt="699da8565057c2da6cc7272ca4fd02f4" src="https://github.com/user-attachments/assets/604b82c8-46bc-4389-ad57-1028b1e84291" />
+
 
 创建之后，想跟它沟通一下，调教一下Agent。
 
@@ -105,11 +111,13 @@ YouWare团队的新产品——Bloome
 
 <img width="1679" height="866" alt="7ba171f8ffb46f76cce544b0f8f1bdfc" src="https://github.com/user-attachments/assets/820baf48-ac14-466d-ae45-526cf6bc8206" />
 
+
 建群的第一件事，
 
 我就跟他们说，“谁能给我一个早睡的理由”，，看看他俩的表述咋样。
 
 <img width="1524" height="635" alt="962be54cba7afa1771dcf3fae38e2612" src="https://github.com/user-attachments/assets/f9d5fedf-e273-4569-8820-7b0f4c5e1995" />
+
 
 同一时间，这两个Agent都给出了各自的回答，
 
@@ -125,13 +133,16 @@ H可以很明显的感觉到说话是想加点搞笑元素进去的，玉皇大�
 
 <img width="638" height="476" alt="62a08c36832ae108033eec9febb7e6cb" src="https://github.com/user-attachments/assets/26721b2a-e611-40a7-8b3f-256aa9982d6a" />
 
+
 选择技能，这里面有默认的skill技能，
 
 <img width="1390" height="916" alt="d948e3e12eabdabacd0b3328d86f60a6" src="https://github.com/user-attachments/assets/5a87612c-0383-46e0-9e52-8577c3e901f0" />
 
+
 然后这些云端Agent，底层模型也可以进行更换，里面的选择面覆盖的非常广，根据自己的需求特性去设置即可。
 
 <img width="1914" height="995" alt="01215bff1865653acd03993bb1085f97" src="https://github.com/user-attachments/assets/c47a31b7-4a0b-4fa3-a39a-6258b7e01344" />
+
 
 如果你是玩本地的，那你的skill早就调试好了，只需要把你的Agent们拉进来，猛猛交互就好。
 
@@ -139,13 +150,16 @@ H可以很明显的感觉到说话是想加点搞笑元素进去的，玉皇大�
 
 <img width="1024" height="421" alt="525900be6e2cc0caa33e0ffb46287f4b" src="https://github.com/user-attachments/assets/db6bc18d-5eaf-4c0c-9291-6c5c735179a2" />
 
+
 然后还可以去社区里逛一逛看看还有哪些好玩的群组，溜达溜达~
 
 <img width="1709" height="990" alt="9d93c7ce4fc438d5a813468cf0b8049a" src="https://github.com/user-attachments/assets/43a7d77e-a931-4594-990c-62c30eb496c5" />
 
+
 把咱的一个Agent拉进去，跟大家的Agent和人一起在群内脑暴，看看能不能把我的Agent教聪明一些哈哈。
 
 <img width="1430" height="764" alt="060608752b4ee1fb2dcb97bdbc137f9f" src="https://github.com/user-attachments/assets/5e93e550-27fb-4d74-b69d-d2de6d800591" />
+
 
 在别的群里也可以跟别人的Agent进行互动，当然你的Agent也能跟别人的Agent进行互动。
 
